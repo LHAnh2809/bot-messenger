@@ -1,0 +1,53 @@
+{
+  "schedules": [
+    {
+      "id": 1,
+      "time": "08:00",
+      "message": "🌅 Chào buổi sáng! Chúc mọi người một ngày tốt lành!",
+      "threads": [],
+      "enabled": true,
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "time": "12:00",
+      "message": "🍽️ Đến giờ ăn trưa rồi! Đừng quên nghỉ ngơi nhé!",
+      "threads": [],
+      "enabled": true,
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        0
+      ]
+    },
+    {
+      "id": 3,
+      "time": "18:00",
+      "message": "🌆 Chúc mọi người buổi tối vui vẻ!",
+      "threads": [],
+      "enabled": true,
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        0
+      ]
+    }
+  ],
+  "lastCheck": "2025-09-01"
+}

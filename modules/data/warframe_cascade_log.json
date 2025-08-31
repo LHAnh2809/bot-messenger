@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "2025-09-01 00:00:18",
+    "type": "init",
+    "message": "BOX_ID được tìm thấy trong config: 100034653128195"
+  },
+  {
+    "timestamp": "2025-09-01 00:00:24",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:01:19",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:07:02",
+    "type": "init",
+    "message": "BOX_ID được tìm thấy trong config: 100034653128195"
+  },
+  {
+    "timestamp": "2025-09-01 00:07:08",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:07:44",
+    "type": "init",
+    "message": "BOX_ID được tìm thấy trong config: 100034653128195"
+  },
+  {
+    "timestamp": "2025-09-01 00:07:50",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:08:45",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:09:45",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:10:45",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:13:16",
+    "type": "init",
+    "message": "BOX_ID được tìm thấy trong config: 100034653128195"
+  },
+  {
+    "timestamp": "2025-09-01 00:13:21",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:14:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:15:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:16:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:17:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:18:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:19:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:20:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:21:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:22:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:23:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:24:17",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:25:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:26:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:27:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:28:17",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:29:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:30:17",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:31:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:32:17",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:33:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:34:17",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:35:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:36:17",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:37:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:38:17",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:39:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:40:17",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:41:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:42:17",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 00:43:16",
+    "type": "check",
+    "message": "Check API ✓ Không có Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 01:41:16",
+    "type": "init",
+    "message": "BOX_ID được tìm thấy trong config: 100034653128195"
+  },
+  {
+    "timestamp": "2025-09-01 01:41:22",
+    "type": "found",
+    "message": "Check API ✓ Tìm thấy 1 Void Cascade"
+  },
+  {
+    "timestamp": "2025-09-01 01:41:22",
+    "type": "new_mission",
+    "message": "Tìm thấy 1 nhiệm vụ Void Cascade mới"
+  },
+  {
+    "timestamp": "2025-09-01 01:41:22",
+    "type": "notify",
+    "message": "Gửi thông báo 📢 đến 1 nhóm (BOX_ID từ config)"
+  },
+  {
+    "timestamp": "2025-09-01 01:41:23",
+    "type": "sent",
+    "message": "Thông báo đã gửi đến nhóm: 100034653128195"
+  },
+  {
+    "timestamp": "2025-09-01 01:41:25",
+    "type": "delay",
+    "message": "Tính delay: ETA + 60s = 85m | Ngừng check, chờ đến 03:05"
+  }
+]

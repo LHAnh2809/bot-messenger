@@ -1,0 +1,19 @@
+# Loại trừ các file/thư mục không cần deploy lên GitHub hoặc server
+node_modules/
+*.log
+*.sqlite
+*.db
+*.bak
+.cache/
+modules/commands/*/cache/
+modules/commands/*/test/
+modules/data/*.sqlite
+modules/data/*.bak
+modules/data/*.log
+.env
+
+# Loại trừ file backup, tạm
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db

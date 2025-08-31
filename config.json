@@ -1,0 +1,60 @@
+{
+    "language": "vi",
+    "notiGroup": true,
+    "MAINTENANCE": false,
+    "allowInbox": false,
+    "BOTNAME": " 💢 ",
+    "AMDIN_NAME": "Lê Hoàng Anh",
+    "keyRent": "Lunar",
+    "FACEBOOK_ADMIN": "",
+    "PREFIX": "/",
+    "box_admin": "",
+    "ADMINBOT": [
+        "100034653128195"
+    ],
+    "NDH": [
+        "100034653128195",
+        "100006355983629",
+        "100027315722816",
+        "100095458741611"
+    ],
+    "BOX_ID": [
+        "23971520269179966"
+    ],
+    "autoCleanCache": {
+        "Enable": true,
+        "CachePaths": [
+            "./modules/commands/Tiện ích/cache",
+            "./modules/commands/Thống kê/cache",
+            "./modules/commands/Admin/cache",
+            "./modules/commands/Coin/cache",
+            "./modules/commands/Game/cache",
+            "./modules/commands/Nhóm/cache"
+        ],
+        "AllowFileExtension": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".mp4",
+            ".mp3",
+            ".m4a",
+            ".ttf",
+            ".gif",
+            ".webp"
+        ]
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "5.0.0",
+    "ACCESSTOKEN": "EAAAAUaZA8jlABO3qZB6kq7FRg2EFbpjWAFkgXxex0y1NDfewZBYZBeEqRR0pXYYC0XjCDSYNlliqSUxfsT1h4mj1PRQHfnSnE2iI6MtYts7lY5bIKqY8y8zr7b7UszJnyrJzrS7QUjEgHUeWg9nBOmXSctr8f1B2ZA4qgqZAlUiyg0JYVOCqDYZCiYckAZDZD",
+    "leave": {
+        "status": false,
+        "number": 5
+    }
+}
